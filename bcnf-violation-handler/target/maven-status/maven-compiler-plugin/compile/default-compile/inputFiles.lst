@@ -1,0 +1,10 @@
+/workspaces/bcnf-handler/bcnf-violation-handler/src/main/java/com/bcnf/Demo.java
+/workspaces/bcnf-handler/bcnf-violation-handler/src/main/java/com/bcnf/algorithm/BCNFDecomposer.java
+/workspaces/bcnf-handler/bcnf-violation-handler/src/main/java/com/bcnf/algorithm/BCNFValidator.java
+/workspaces/bcnf-handler/bcnf-violation-handler/src/main/java/com/bcnf/algorithm/CandidateKeyFinder.java
+/workspaces/bcnf-handler/bcnf-violation-handler/src/main/java/com/bcnf/db/BCNFDatabaseMiddleware.java
+/workspaces/bcnf-handler/bcnf-violation-handler/src/main/java/com/bcnf/exception/BCNFViolationException.java
+/workspaces/bcnf-handler/bcnf-violation-handler/src/main/java/com/bcnf/model/FunctionalDependency.java
+/workspaces/bcnf-handler/bcnf-violation-handler/src/main/java/com/bcnf/model/Relation.java
+/workspaces/bcnf-handler/bcnf-violation-handler/src/main/java/com/bcnf/sql/BCNFSQLGenerator.java
+/workspaces/bcnf-handler/bcnf-violation-handler/src/main/java/com/bcnf/ui/Main.java
